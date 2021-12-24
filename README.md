@@ -1,4 +1,4 @@
 # poxy
 go proxy api
 
-I maked  the proxy app  with use golang. like nginx
+I make the proxy app with use golang. like nginx
